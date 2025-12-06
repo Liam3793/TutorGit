@@ -23,6 +23,8 @@ import NoahsArk.Concrete.Whale;
 public class NoahsArk {
 
     public static void main(String[] args) {
+
+        System.out.println("Time to board");
         Animal[] animalsLoad = new Animal[]{
                 new Bat(),
                 new Bear(),
